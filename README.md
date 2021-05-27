@@ -6,7 +6,6 @@
 
 
 ### Sobre mim
-I'm a {backend, frontend and mobile} developer and technical instructor at [@treinaweb](https://www.treinaweb.com.br/).
 
 - [Faculdade] 👨🏼‍🏫 - Análise e desenvolvimento de sistemas.
 - ✍🏼 - Em constante aprendizagem.
